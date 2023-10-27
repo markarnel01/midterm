@@ -1,0 +1,92 @@
+.con { /* container fof all */
+
+    margin-top: 85px;
+    margin-right: 300px;
+    margin-left: 300px;
+
+    backdrop-filter: blur(10px);
+
+    line-height: 10px;
+
+    border: 5px solid #F598AF;
+    border-radius: 20px;
+    
+}
+
+.bord{ /* pink border in txt register form with gif */
+    
+    background: url(strike.gif) center; 
+    background-size: cover;
+    position: relative;
+
+    line-height: 30px;
+    border: 10px solid #F598AF;
+    background-color: black;
+    
+}
+
+.sub{
+
+    font-family: arial black;
+    color: #F598AF;
+
+}
+
+.txt { /* white blank txt in name and age*/
+
+    font-family: arial black;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+
+    border-radius: 20px;
+    margin-left: 263px;
+
+}
+
+.login{ /* submit Button */
+   
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    line-height: 40px; 
+   
+    text-align: center;
+    font-size: 20px;
+    color: #F598AF;
+    font-family: Arial black;
+
+    border: 6px solid #F598AF;
+    border-radius: 100px;
+
+    background: url(water.gif) center; 
+    background-size: cover;
+
+} 
+
+h1{ /* Title font color txxt */
+
+    text-align: center;
+    color: #F598AF;
+    font-size: 60px;
+    font-family: Arial Black;
+  
+}
+
+h2{/* txt in name and age */
+
+   margin-left: 265px;
+    color: #F598AF;
+    font-size: 33   px;
+    font-family: arial black;
+
+}
+
+body{ /* background Picture*/
+
+    background: url(lighting.gif) center; 
+    background-size: cover;
+    height: 500px;
+    
+}

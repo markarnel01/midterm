@@ -1,0 +1,46 @@
+.try{ /* try again Button in answer.php */
+    
+ 
+    margin-left: 670px;
+    margin-right: 670px;
+
+    text-align: center;
+    font-size: 20pt;  
+    color: #F598AF;  
+
+    line-height: 35px;
+    
+    border: 4px solid #F598AF;
+
+    position: relative;
+    background: url(water.gif) center; 
+    background-size: cover;
+} 
+
+h3{  /* Font color txt in question */
+
+    background: url(strike.gif) center; 
+    background-size: cover;
+    position: relative;
+
+    font-size: 60px;
+    text-align: center;
+    color: #F598AF;
+    font-family: Arial Black;
+
+    margin-top: 220px;
+    margin-left: 400px;
+    margin-right: 400px;    
+    line-height: 150px;
+
+    border: 20px solid #F598AF;
+    background-color: black;
+}
+
+body{ /* background Picture in answer php*/
+
+    background: url(lighting.gif) center; 
+    background-size: cover;
+    line-height: 50px;
+    
+}
